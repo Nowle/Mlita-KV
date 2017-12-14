@@ -1,0 +1,6 @@
+C:\Users\bneth\RiderProjects\Progr\FourthLab\bin\Debug\FourthLab.exe
+C:\Users\bneth\RiderProjects\Progr\FourthLab\bin\Debug\FourthLab.pdb
+C:\Users\bneth\RiderProjects\Progr\FourthLab\obj\Debug\FourthLab.csprojResolveAssemblyReference.cache
+C:\Users\bneth\RiderProjects\Progr\FourthLab\obj\Debug\FourthLab.csproj.CoreCompileInputs.cache
+C:\Users\bneth\RiderProjects\Progr\FourthLab\obj\Debug\FourthLab.exe
+C:\Users\bneth\RiderProjects\Progr\FourthLab\obj\Debug\FourthLab.pdb
