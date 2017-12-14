@@ -1,0 +1,6 @@
+C:\Users\bneth\RiderProjects\Mlita-KV\RootsCorrection\bin\Debug\RootsCorrection.exe
+C:\Users\bneth\RiderProjects\Mlita-KV\RootsCorrection\bin\Debug\RootsCorrection.pdb
+C:\Users\bneth\RiderProjects\Mlita-KV\RootsCorrection\obj\Debug\RootsCorrection.csprojResolveAssemblyReference.cache
+C:\Users\bneth\RiderProjects\Mlita-KV\RootsCorrection\obj\Debug\RootsCorrection.csproj.CoreCompileInputs.cache
+C:\Users\bneth\RiderProjects\Mlita-KV\RootsCorrection\obj\Debug\RootsCorrection.exe
+C:\Users\bneth\RiderProjects\Mlita-KV\RootsCorrection\obj\Debug\RootsCorrection.pdb
