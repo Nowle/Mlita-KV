@@ -1,0 +1,6 @@
+C:\Users\bneth\RiderProjects\ProgLab1\ProgLab1\bin\Debug\ProgLab1.exe
+C:\Users\bneth\RiderProjects\ProgLab1\ProgLab1\bin\Debug\ProgLab1.pdb
+C:\Users\bneth\RiderProjects\ProgLab1\ProgLab1\obj\Debug\ProgLab1.csprojResolveAssemblyReference.cache
+C:\Users\bneth\RiderProjects\ProgLab1\ProgLab1\obj\Debug\ProgLab1.csproj.CoreCompileInputs.cache
+C:\Users\bneth\RiderProjects\ProgLab1\ProgLab1\obj\Debug\ProgLab1.exe
+C:\Users\bneth\RiderProjects\ProgLab1\ProgLab1\obj\Debug\ProgLab1.pdb
